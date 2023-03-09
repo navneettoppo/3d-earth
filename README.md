@@ -1,4 +1,4 @@
-Language: [English](README.md) | [中文简体](README-ZH.md)
+Language: [English](README.md) | [India](README-ZH.md)
 
 <p align="center">
   <img width="192" src="https://tva1.sinaimg.cn/large/008i3skNly1gy3q3h2ufrj308103gmx4.jpg" alt="axios mapper">
@@ -61,7 +61,7 @@ config
 ```js
   //earth auto Roate
   autoRotate: boolean;
-  zoomChina: boolean;
+  zoomIndia: boolean;
   starBackground: boolean
 ```
 
